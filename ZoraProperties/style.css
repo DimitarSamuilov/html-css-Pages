@@ -1,0 +1,247 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa:700|Open+Sans:400,700');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+html, body {
+    /*height: 700px;
+    width: 990px;*/
+    height: 100%;
+    width: 100%;
+    font-family: 'Open Sans', Arial, sans-serif, sans-serif;
+    font-size: 14px;
+}
+
+aside {
+    width: 20%;
+    float: left;
+    height: 100%;
+    margin-right: 10px;
+    padding: 0;
+    background-color: #ffffff;
+}
+
+.profile img {
+    border-radius: 50%;
+    height: 100px;
+}
+
+.profile {
+    text-align: center;
+    margin: 10px auto;
+
+}
+
+.profile h1 {
+    text-transform: lowercase;
+    font-size: 30px;
+    margin: 20px auto;
+}
+
+.profile h3 {
+    color: #b4c0cc;
+    text-transform: uppercase;
+}
+
+main {
+    background-color: #f4f5f7;
+    height: 100%;
+}
+
+aside ul {
+
+}
+aside ul li a{
+    color: #b4c0cc;
+}
+aside ul li  {
+    padding-top: 20px;
+    padding-left: 20px;
+    text-transform: uppercase;
+
+}
+aside ul li:hover{
+    color: #4c413f;
+    border-left: 4px solid #ff7739;
+
+}
+.fa {
+    margin-right: 10px;
+}
+
+.clear-fix {
+    content: "";
+    height: 0px;
+    display: block;
+    clear: right;
+    margin-bottom: 70px;
+
+}
+
+main header button {
+    float: right;
+    margin-right: 40px;
+    margin-top: 40px;
+    border: none;
+    background-color: #ff7739;
+    border-radius: 20px;
+    height: 30px;
+    width: 130px;
+    color: white;
+    font-size: 11px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+main header button:hover{
+    border: 3px solid #ff7739;
+    color :#ff7739;
+    background-color: #f4f5f7;
+}
+main header h1 {
+    float: left;
+    margin-left: 20px;
+    margin-top: 20px;
+    font-size: 2em;
+    }
+
+.flex-list section {
+    flex-grow: 1;
+    margin: 10px;
+    background-color: #ffffff;
+    box-shadow: 8px 6px 17px -1px rgba(0, 0, 0, 0.26);
+}
+
+.flex-list section h1 {
+    text-transform: capitalize;
+}
+
+.section-container p {
+    color: #b1bfc6;
+    text-transform: capitalize;
+}
+
+.section-container h1 {
+    color: #4c413f;
+    text-transform: capitalize;
+    font-weight: bold;
+
+}
+.flex-list {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.flex-list section {
+    flex-grow: 1;
+    flex-basis: 200px;
+    margin: 20px 35px 20px 0;
+}
+
+.flex-list section img {
+    margin-top: 20px;
+    min-width: 100%;
+}
+
+.flex-list section h1, .flex-list section h3 {
+    margin-top: 5px;
+    color: #353334;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    text-transform: capitalize;
+
+}
+
+.flex-list section span {
+    border-radius: 15px;
+    position: relative;
+    top: 52px;
+    right: 20px;
+    z-index: 40;
+    padding: 5px 10px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.listed span {
+    background-color: #68bb69;
+}
+
+.rented span {
+    background-color: #b9c6ce;
+}
+
+.draft span {
+    background-color: #94abb2;
+}
+.section-container{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+
+}
+.rented{
+    opacity:0.5;
+}
+@media screen and (max-width:700px){
+    aside{
+        display: flex;
+        height: auto;
+        float: none;
+        flex-direction: column;
+        margin-bottom: 10px;
+
+    }
+    .profile ,aside{
+        width: 100%;
+
+    }
+    aside ul li {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        padding: 15px;
+    }
+}
