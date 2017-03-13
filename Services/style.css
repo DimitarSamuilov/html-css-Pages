@@ -1,0 +1,44 @@
+html{
+    font-family: "Copperplate Gothic Bold",sans-serif;
+    font-size: 16px;
+}
+body{
+    background-color: #f7f7ef;
+    color: #7f808d;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+header p{
+    letter-spacing: 1px;
+}
+header h1,header p{
+    margin: 20px;
+    font-weight: bold;
+}
+header h1{
+    font-size: 56px;
+
+    color: #00958c;
+}
+.container{
+    margin: 0 auto;
+}
+.container {
+    display: flex;
+
+    margin: 0 auto;
+    width: 900px;
+    font-size: 16px;
+
+}
+.container section{
+    padding: 15px;
+
+}
+.container section:hover{
+    border-left:10px solid #00948c ;
+    background-color: white;
+    cursor: pointer;
+}

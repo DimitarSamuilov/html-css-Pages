@@ -1,4 +1,3 @@
-@import url("https://fonts.googleapis.com/css?family=Volkhov");
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -33,87 +32,65 @@ li {
 }
 a{
     text-decoration: none;
-    color: black;
 }
 * {
     box-sizing: border-box;
-
 }
 
 img {
     max-width: 100%;
     height: auto;
 }
-body{
-    font-family:Volkorn , Serif, sans-serif ;
-    font-size: 16px;
-    color: #768796;
-}
-
 .container{
-    width: 1000px;
-    margin:10px auto;
-    height: 100%;
-
-}
-.page-title {
+    width: 800px;
+    margin: 30px auto;
     text-align: center;
 }
-.section-container{
+.container header{
     display: flex;
-    align-content: center;
-    justify-content:center;
-    height: 450px;
-
-}
-.section-container section{
-    flex-grow: 1;
-    position: relative;
-    text-align: center;
-}
-
-.section-container section header{
-    display: flex;
-    background-color: #f0f5f8;
-    margin:10px;
-    text-align: center;
-    height: 60px;
-    align-items: center;
+    background-color: #e2e2e2;
+    color: #9873e3;
+    height: 50px;
     justify-content: center;
-    text-transform: capitalize;
+    align-items: center;
 }
-.section-container section  span{
-    font-size: 60px;
+.flex-container{
+    margin: 10px -10px 10px -10px;
 }
-.section-container section ul {
-    text-align: left;
-    height: 55%;
-}
-.section-container section ul li {
-    margin-left: 20px;
-    margin-top: 10px;
-    padding-bottom: 2px;
-    border-bottom: 1px solid #bed8e8;
-}
+.flex-container .single{
+    display: inline-block;
+    width: 22%;
 
-.section-container section button:hover{
-    cursor: pointer;
-    background-color:#66dae9 ;
 }
-.section-container section button{
-    border: none;
-    padding: 15px;
-    border-radius: 12px;
+.flex-container .single{
+    background-color: #f3f3f3;
+    flex-grow: 1;
+    margin: 10px;
+
+}
+.flex-container .single .number{
+    margin: 10px auto;
+    width: 80%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9573df;
+    border-radius: 50%;
     color: white;
-    width:80%;
+    font-size: 1.6em;
 }
-
-
-
-
-
-
-
+.flex-container .single .number:hover{
+    color: #9573df;
+    background-color: white;
+}
+.flex-container .single button{
+    border: none;
+    width: 80%;
+    margin: 10px;
+    border-radius: 5px;
+    height: 30px;
+}
 
 
 

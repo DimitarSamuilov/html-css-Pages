@@ -1,0 +1,83 @@
+body{
+    font-family: "Baskerville Old Face",Arial,sans-serif;
+    font-size: 15px;
+    background-color: #63317b;
+    font-weight: bold;
+}
+.container {
+    width:900px;
+    margin: 30px auto;
+    background-color: #ffb331;
+    height: 100%;
+    border-radius: 20px;
+}
+.watch-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container header h1{
+    font-size: 24px;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+
+}
+.container .watch-container section{
+    width: 220px;
+    background-color: #632159;
+    height: 80%;
+    text-align: center;
+    margin: 30px;
+    padding: 10px;
+    border-bottom-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.container .watch-container section img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid #856e76;
+}
+.container .watch-container section h1{
+    font-size: 22px;
+    color: white;
+    text-align: center;
+}
+
+.container .watch-container section p{
+    text-align: left;
+    color: white;
+    padding-left: 10px;
+
+}
+.container .watch-container section button{
+    margin: 10px auto;
+    width: 90%;
+    border: none;
+    background-color: white;
+    color: #632154;
+    font-size: 22px;
+    font-weight: bold;
+    font-style: italic;
+    border-radius:15px;
+    box-shadow: 2px 2px 5px #888888;
+}
+
+.container .watch-container section  .guarantee{
+    text-align: center;
+    color: #ffb331;
+    margin:5px;
+}
+
+
+
+
+
+
+
+
+
+
+
