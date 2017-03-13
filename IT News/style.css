@@ -25,14 +25,16 @@ footer, header, hgroup, menu, nav, section {
     display: block;
 }
 
-li{
+li {
     list-style-type: none;
     margin: 0;
     padding: 0;
 }
-a{
+
+a {
     text-decoration: none;
 }
+
 * {
     box-sizing: border-box;
 
@@ -42,7 +44,38 @@ img {
     max-width: 100%;
     height: auto;
 }
-body{
-    font-family: Verdana ,Arial,sans-serif;
+
+body {
+    font-family: Verdana, Arial, sans-serif;
     color: #A192b0;
+}
+
+.container {
+    width: 610px;
+    margin: 20px auto;
+}
+
+.container section {
+    width: 280px;
+    display: inline-block;
+    border: 1px solid #a192b0;
+    margin: 10px 10px 10px 0;
+    box-shadow: 5px 5px 2px #888888;;
+}
+
+.container section div h1 {
+    font-size: 13px;
+    color: black;
+    font-weight: bold;
+    margin: 5px 0 0 5px;
+}
+
+.container .info p, .container section div span {
+    font-size: 10px;
+    margin: 10px;
+}
+
+.container .info img {
+    float: left;
+    margin: 5px 5px 5px 0;
 }

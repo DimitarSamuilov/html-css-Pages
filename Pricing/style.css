@@ -1,0 +1,137 @@
+@import url("https://fonts.googleapis.com/css?family=Volkhov");
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+body{
+    font-family:Volkorn , Serif, sans-serif ;
+    font-size: 16px;
+    color: #768796;
+}
+
+.container{
+    width: 1000px;
+    margin:10px auto;
+    height: 100%;
+
+}
+.page-title {
+    text-align: center;
+}
+.section-container{
+    display: flex;
+    align-content: center;
+    justify-content:center;
+    height: 450px;
+
+}
+.section-container section{
+    flex-grow: 1;
+    position: relative;
+    text-align: center;
+}
+
+.section-container section header{
+    display: flex;
+    background-color: #f0f5f8;
+    margin:10px;
+    text-align: center;
+    height: 60px;
+    align-items: center;
+    justify-content: center;
+    text-transform: capitalize;
+}
+.section-container section  span{
+    font-size: 60px;
+}
+.section-container section ul {
+    text-align: left;
+    height: 55%;
+}
+.section-container section ul li {
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid #bed8e8;
+}
+
+.section-container section button:hover{
+    cursor: pointer;
+    background-color:#66dae9 ;
+}
+.section-container section button{
+    border: none;
+    padding: 15px;
+    border-radius: 12px;
+    color: white;
+    width:80%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
