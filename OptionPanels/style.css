@@ -1,0 +1,116 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+li{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+* {
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+body{
+    background-color: #cfcfcf;
+    color: #191923;
+    font-size: 15px;
+    font-family: Tahoma ,Arial, sans-serif;
+    height: 100%;
+}
+.container{
+    width: 1000px;
+    margin: 20px auto;
+}
+a{
+    color: #191923;
+}
+nav{
+    margin-bottom: 30px;
+    display: flex;
+    width: 100%;
+    background-color: white;
+    height: 80px;
+    align-items: center;
+}
+nav ul{
+    margin-left: 30px ;
+}
+nav ul li:first-child a{
+    color: #c7044f;
+}
+nav ul li a:hover{
+    color: #c7044f;
+}
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+    font-size: 1.2em;
+    text-transform: uppercase;
+}
+
+.items{
+    display: flex;
+    flex-grow: 1;
+    flex-basis: 100px;
+    margin-right: -20px;
+    overflow: hidden;
+
+}
+.items section img{
+}
+.items section:hover{
+    opacity: 0.8;
+    cursor: pointer;
+}
+.items section h1{
+    text-transform: uppercase;
+    font-size: 1.4em;
+    padding: 10px 0 10px 10px;
+}
+.items section p{
+    font-size: 1.2em;
+    padding-left: 10px;
+}
+.items section{
+    margin-right:20px;
+    flex-basis: 300px;
+    background-color: white;
+    height: 350px;
+}
+.items section img{
+    height:45%;
+    width: 100%;
+}
+

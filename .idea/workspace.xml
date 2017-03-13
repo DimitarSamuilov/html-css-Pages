@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c2456a2-dcb9-4f52-ad2a-1b7c70c84b2c" name="Default" comment="" />
+    <list default="true" id="0c2456a2-dcb9-4f52-ad2a-1b7c70c84b2c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/Image/Business.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/Image/Education.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/Image/Entertaiment.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/Image/Science.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/Images/image-01.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/Images/image-02.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/Images/image-03.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/Images/image-04.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NewsPage/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/OptionPanels/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ZoraProperties/style.css" afterPath="$PROJECT_DIR$/ZoraProperties/style.css" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,31 +35,7 @@
     <favorites_list name="Html" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Zora.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ZoraProperties/Zora.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
-              <folding>
-                <element signature="e#1264#1271#0" expanded="true" />
-                <element signature="e#2410#2417#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ZoraProperties/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="233" column="27" lean-forward="false" selection-start-line="233" selection-start-column="27" selection-end-line="233" selection-end-column="27" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,6 +85,10 @@
         <option value="$PROJECT_DIR$/MediaBar/style.css" />
         <option value="$PROJECT_DIR$/ZoraProperties/Zora.html" />
         <option value="$PROJECT_DIR$/ZoraProperties/style.css" />
+        <option value="$PROJECT_DIR$/NewsPage/index.html" />
+        <option value="$PROJECT_DIR$/NewsPage/style.css" />
+        <option value="$PROJECT_DIR$/OptionPanels/index.html" />
+        <option value="$PROJECT_DIR$/OptionPanels/style.css" />
       </list>
     </option>
   </component>
@@ -150,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -161,8 +157,18 @@
               <option name="myItemId" value="Html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="ZoraProperties" />
+              <option name="myItemId" value="Html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OptionPanels" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -175,11 +181,14 @@
               <option name="myItemId" value="Html" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NewsPage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,13 +204,16 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Html\MediaBar" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Html\ZoraProperties" />
       <recent name="C:\Html\Briard istory\Images" />
       <recent name="C:\Html\BookReview" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Html\OptionPanels\Images" />
+      <recent name="C:\Html\NewsPage\Image" />
+      <recent name="C:\Html\NewsPage" />
+      <recent name="C:\Html\MediaBar" />
     </key>
   </component>
   <component name="RunManager">
@@ -276,12 +288,13 @@
       <option name="presentableId" value="Default" />
       <updated>1489255493088</updated>
       <workItem from="1489255495767" duration="11366000" />
-      <workItem from="1489305276076" duration="23072000" />
+      <workItem from="1489305276076" duration="27537000" />
+      <workItem from="1489401842828" duration="9262000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34438000" />
+    <option name="totallyTimeSpent" value="48165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2326" y="-312" width="960" height="1080" extended-state="0" />
@@ -316,7 +329,18 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/BookReview/index.html">
+    <entry file="file://$PROJECT_DIR$/ZoraProperties/Zora.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
+          <folding>
+            <element signature="e#1264#1271#0" expanded="false" />
+            <element signature="e#2410#2417#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZoraProperties/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -324,11 +348,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BookReview/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BookReview/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2091">
           <caret line="123" column="1" lean-forward="true" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -336,7 +366,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="17" selection-end-line="33" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -349,7 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="728">
           <caret line="48" column="18" lean-forward="false" selection-start-line="48" selection-start-column="18" selection-end-line="48" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -357,82 +385,78 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1394">
           <caret line="123" column="1" lean-forward="false" selection-start-line="123" selection-start-column="1" selection-end-line="123" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Briard istory/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1003">
-          <caret line="59" column="35" lean-forward="false" selection-start-line="59" selection-start-column="35" selection-end-line="59" selection-end-column="35" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Briard istory/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="7" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FloatingElements/FloatingElements.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="53" lean-forward="false" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FloatingElements/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="23" lean-forward="false" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClearFloating/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" lean-forward="false" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ClearFloating/clearFloatig.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Briard istory/css/style.css" />
+    <entry file="file://$PROJECT_DIR$/Briard istory/index.html" />
+    <entry file="file://$PROJECT_DIR$/FloatingElements/FloatingElements.html" />
+    <entry file="file://$PROJECT_DIR$/FloatingElements/style.css" />
+    <entry file="file://$PROJECT_DIR$/ClearFloating/style.css" />
+    <entry file="file://$PROJECT_DIR$/ClearFloating/clearFloatig.html" />
     <entry file="file://$PROJECT_DIR$/MediaBar/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="335">
           <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZoraProperties/Zora.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
+        <state relative-caret-position="17">
           <caret line="22" column="14" lean-forward="false" selection-start-line="22" selection-start-column="14" selection-end-line="22" selection-end-column="14" />
           <folding>
-            <element signature="e#1264#1271#0" expanded="true" />
-            <element signature="e#2410#2417#0" expanded="true" />
+            <element signature="e#1264#1271#0" expanded="false" />
+            <element signature="e#2410#2417#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ZoraProperties/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="233" column="27" lean-forward="false" selection-start-line="233" selection-start-column="27" selection-end-line="233" selection-end-column="27" />
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="true" selection-start-line="2" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsPage/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="12" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="45" selection-end-column="12" />
+          <folding>
+            <element signature="n#article#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#1;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#2;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#article#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#h1#0;n#article#3;n#main#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewsPage/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="43" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionPanels/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="88" column="0" lean-forward="true" selection-start-line="88" selection-start-column="0" selection-end-line="88" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OptionPanels/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="17" lean-forward="true" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding>
+            <element signature="e#411#507#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
