@@ -245,3 +245,7 @@ main header h1 {
         padding: 15px;
     }
 }
+.flex-list section:hover{
+    opacity: 0.3;
+    cursor: pointer;
+}
