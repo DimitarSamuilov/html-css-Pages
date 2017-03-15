@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2456a2-dcb9-4f52-ad2a-1b7c70c84b2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/header-bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/intro-img.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/Images/speaker-6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Conference Landing/style.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Conference Landing/style.css" afterPath="$PROJECT_DIR$/Conference Landing/style.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,21 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Conference Landing/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="595">
-              <caret line="140" column="30" lean-forward="true" selection-start-line="140" selection-start-column="30" selection-end-line="140" selection-end-column="30" />
+            <state relative-caret-position="34">
+              <caret line="74" column="30" lean-forward="true" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Conference Landing/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="436" column="23" lean-forward="false" selection-start-line="436" selection-start-column="23" selection-end-line="436" selection-end-column="23" />
+            <state relative-caret-position="34">
+              <caret line="406" column="12" lean-forward="false" selection-start-line="406" selection-start-column="12" selection-end-line="406" selection-end-column="12" />
               <folding />
             </state>
           </provider>
@@ -94,8 +84,8 @@
       <find>.people</find>
       <find>footer-form</find>
       <find>footer</find>
-      <find>tes</find>
       <find>header-info-section</find>
+      <find>tes</find>
     </findStrings>
     <replaceStrings>
       <replace>h2</replace>
@@ -138,8 +128,8 @@
         <option value="$PROJECT_DIR$/ConsyltingAgency/index.html" />
         <option value="$PROJECT_DIR$/ConsultingAgency/index.html" />
         <option value="$PROJECT_DIR$/ConsultingAgency/style.css" />
-        <option value="$PROJECT_DIR$/Conference Landing/style.css" />
         <option value="$PROJECT_DIR$/Conference Landing/index.html" />
+        <option value="$PROJECT_DIR$/Conference Landing/style.css" />
       </list>
     </option>
   </component>
@@ -268,7 +258,10 @@
       <recent name="C:\Html\Services\images" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Html/Conference Landing/index.html">
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <method />
     </configuration>
@@ -328,6 +321,14 @@
       <recursive>false</recursive>
       <method />
     </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -344,7 +345,7 @@
       <workItem from="1489401842828" duration="19784000" />
       <workItem from="1489426383923" duration="3733000" />
       <workItem from="1489564127158" duration="25250000" />
-      <workItem from="1489596404064" duration="7055000" />
+      <workItem from="1489596404064" duration="7158000" />
     </task>
     <task id="LOCAL-00001" summary="new pages added">
       <created>1489411556029</created>
@@ -381,11 +382,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489583815467</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Confrence Page">
+      <created>1489603480041</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1489603480041</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="94725000" />
+    <option name="totallyTimeSpent" value="94828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2326" y="-312" width="960" height="1080" extended-state="0" />
@@ -395,18 +403,18 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -418,7 +426,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new pages added" />
     <MESSAGE value="Agency" />
-    <option name="LAST_COMMIT_MESSAGE" value="Agency" />
+    <MESSAGE value="Confrence Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Confrence Page" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -695,18 +704,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conference Landing/style.css">
+    <entry file="file://$PROJECT_DIR$/Conference Landing/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="436" column="23" lean-forward="false" selection-start-line="436" selection-start-column="23" selection-end-line="436" selection-end-column="23" />
+        <state relative-caret-position="34">
+          <caret line="74" column="30" lean-forward="true" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Conference Landing/index.html">
+    <entry file="file://$PROJECT_DIR$/Conference Landing/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="595">
-          <caret line="140" column="30" lean-forward="true" selection-start-line="140" selection-start-column="30" selection-end-line="140" selection-end-column="30" />
+        <state relative-caret-position="34">
+          <caret line="406" column="12" lean-forward="false" selection-start-line="406" selection-start-column="12" selection-end-line="406" selection-end-column="12" />
           <folding />
         </state>
       </provider>
