@@ -1,0 +1,498 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,700,200,100');
+@import url('https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+    display: block;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+* {
+    box-sizing: border-box;
+
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+body {
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    background-color: #ffffff;
+    min-width:990px;
+
+}
+
+.base-header {
+    background-color: #3b3e47;
+    opacity: 0.9;
+    height: 600px;
+    z-index: 5;
+}
+
+.base-header:after {
+    content: "";
+    background: url("Images/header-bg.png") center center;
+    background-size: cover;
+    z-index: -5;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    opacity: 0.3;
+    position: absolute;
+    height: 600px;
+}
+
+.base-header ul li {
+    margin: 30px 30px 0 30px;
+    display: inline-block;
+
+}
+
+.nav-right {
+    float: right;
+}
+
+.base-header nav ul li a {
+    color: white;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+
+.header-title {
+    text-align: center;
+    margin-bottom: 150px;
+}
+
+.header-title h1, .header-title i {
+    display: inline-block;
+    margin-top: 120px;
+    margin-right: 100px;
+}
+
+.header-title h1 {
+    text-align: left;
+    color: white;
+    font-size: 20px;
+    width: 500px;
+    font-weight: 100;
+
+}
+
+.header-title i {
+    color: white;
+}
+
+#coding-innovations {
+    font-weight: 400;
+}
+
+.header-info-section {
+    margin: 0 30px;
+    display: flex;
+}
+
+.header-info-section section {
+    width: 30%;
+    margin-right: 15px;
+    color: white;
+    font-weight: 100;
+}
+
+.header-info-section section i {
+    margin-bottom: 60px;
+}
+
+.opinion {
+    text-align: center;
+    margin: 20px auto;
+    height: 400px;
+
+}
+
+.opinion {
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.opinion article {
+    position: relative;
+    width: 30%;
+    margin-right: 30px;
+}
+
+.quote p {
+    font-size: 13px;
+    color: #333333;
+
+}
+
+.quote hr {
+    margin: 30px auto;
+}
+
+.quote h1 {
+    font-weight: bold;
+}
+
+.quote {
+    text-align: left;
+}
+
+.wise-words {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.wise-words h1:before {
+    content: open-quote;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.wise-words h1:after {
+    content: close-quote;
+    font-size: 24px;
+    display: inline-block;
+}
+
+.wise-words h1 {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: right;
+    margin-bottom: 40px;
+}
+
+.wise-words p {
+    text-align: right;
+    color: #333333;
+}
+
+.orange {
+    position: absolute;
+    background: #fa692e;
+    opacity: 0.4;
+    z-index: 2;
+    height: 110%;
+    width: 110%;
+    right: 10%;
+    top: -9%;
+}
+
+.tes:after {
+    content: "";
+    display: block;
+
+}
+
+.schedule {
+    background-color: #3b3e47;
+    height: 500px;
+}
+
+.schedule > header {
+    display: block;
+    color: white;
+    font-weight: bolder;
+    font-size: 18px;
+    text-align: left;
+    width: 45%;
+}
+
+.schedule header h1 {
+    padding: 60px 0 0 70px;
+
+}
+
+.dates {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.dates > div {
+    margin-top: 50px;
+    width: 50%;
+    flex-grow: 1;
+    display: flex;
+    align-items: center;
+}
+
+.dates > div > * {
+    font-size: 18px;
+    text-align: center;
+
+}
+
+.dates > div h1 {
+    color: white;
+}
+
+.dates > div h1 a {
+    font-weight: 100;
+    margin-left: 20px;
+    color: darkgrey;
+}
+
+.icon-align {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    color: white;
+    background-color: #fa692e;
+    margin-right: 10px;
+}
+
+.people {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.people header {
+    display: flex;
+    width: 80%;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.people header * {
+    flex-grow: 1;
+}
+
+.people .faces-holder {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 30px auto;
+
+}
+
+.people .faces-holder > div > div * {
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+.people .faces-holder > div > div h1 {
+    margin-top: 10px;
+    font-weight: bold;
+
+}
+
+.people .faces-holder > div > h2 {
+    text-transform: capitalize;
+    margin-left: 10px;
+    color: #d2c3be;
+}
+
+.people .faces-holder > div > img {
+    width: 100%;
+    height: 70%;
+}
+
+.people .faces-holder > div {
+    margin-right: 20px;
+    box-shadow: 10px 10px 15px -5px rgba(0, 0, 0, 0.25);
+    width: 21%;
+    margin-bottom: 30px;
+}
+
+.people > header * {
+    margin-right: 70px;
+}
+
+.people > header h1 {
+    font-weight: bold;
+}
+
+.people > header p {
+    font-size: smaller;
+}
+
+footer {
+    background-color: #3c3e4a;
+    padding: 50px 0px 0px 0px;
+}
+
+footer .events {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    color: white;
+}
+
+footer .events > * {
+    width: 50%;
+    margin: 20px auto;
+}
+footer .events >h1{
+    font-weight: 900;
+    font-size: 24px;
+    text-transform: uppercase;
+}
+footer .events >p{
+    font-size:12px;
+    font-weight: 100;
+}
+.footer-form form input{
+    background-color: #3c3e4a;
+    border: none;
+    border-bottom: 2px solid #fa6a2e;
+    color:white;
+    margin-right: 20px;
+
+}
+input:focus{
+    outline: none;
+}
+.footer-form form button{
+    border: none;;
+    background-color:#fa6a2e ;
+    color: #ffdbbc;
+    height: 2em;
+    width:6em;
+    border-radius:12px;
+    text-align: center;
+}
+.footer-form{
+    padding-bottom: 20px;
+}
+
+.footer-info{
+    margin-top: 20px;
+    display: flex;
+    height: 50px;
+    background-color: #292a2f;
+    width: 100%;
+    align-items: center;
+    padding-left: 20px;
+}
+.footer-info a{
+    color: white;
+}
+.base-header nav ul li a:hover{
+    color: #fa6930;
+}
+.header-title .fa-play-circle:hover{
+    color: #fa6930;
+}
+.header-info-section section{
+
+    padding-bottom:57px;
+}
+.header-info-section section:hover
+{
+    border-bottom: 10px solid #fa6930;
+    cursor: pointer;
+}
+
+.faces-holder>div>div>a:hover{
+    color:#fa6930;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
