@@ -1,1 +1,103 @@
-﻿/*TODO*/
+﻿@media screen and ( min-width: 756px ) and (max-width: 1000px ){
+    *{
+        box-sizing: border-box;
+    }
+    body{
+        overflow-x: hidden;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    header>*{
+        float: none;
+        flex-basis: 100%;
+        flex-grow: 1;
+    }
+    #header-area-right{
+        max-width: 100%;
+        display: flex;
+        flex-direction:column;
+        justify-content: center;
+        align-items: center;
+    }
+    #header-area-right>*{
+        margin-top: 10px;
+    }
+    #p-albums-items{
+        display: flex;
+        flex-flow: row wrap;
+       justify-content: center;
+    }
+    #p-albums-items>div{
+
+        flex-basis: 30%;
+    }
+}
+@media screen and (max-width: 756px){
+    #wrapper{
+        width: 100%;
+    }
+    *{
+        box-sizing: border-box;
+    }
+    header{
+        display: flex;
+        flex-direction: column;
+        height: auto;
+    }
+    header>*{
+        float: none;
+        flex-basis: 100%;
+        flex-grow: 1;
+    }
+    #header-area-right{
+        max-width: 100%;
+        display: flex;
+        height: auto;
+        flex-direction:column;
+        justify-content: center;
+        align-items: center;
+    }
+    #header-area-right>*{
+        margin-top: 10px;
+    }
+    #p-albums-items{
+        display: flex;
+        flex-flow: row wrap;
+        justify-content: center;
+    }
+    #p-albums-items>div{
+        flex-basis: 40%;
+    }
+    #menu{
+        width: 100%;
+    }
+    #nav-menu{
+        display: flex;
+        flex-direction:column;
+        width: 80%;
+        margin: 0 auto;
+        text-align: center;
+        justify-content: center;
+
+    }
+    #nav-menu>*{
+        text-align: center;
+        flex-basis: 100%;
+        flex-grow: 1;
+    }
+    #nav-menu>*>a{
+        width:100%;
+    }
+    #search-form{
+        float: none;
+    }
+    #publicphotos{
+        width: 100%;
+    }
+    body>.contentblock{
+        background-color: red;
+    }
+}
