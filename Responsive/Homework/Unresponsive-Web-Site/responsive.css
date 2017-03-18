@@ -1,0 +1,52 @@
+@media screen and (max-width: 780px) {
+    body > #wrapper {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0;
+
+    }
+
+    body #wrapper > header nav ul {
+        justify-content: center;
+    }
+
+    body {
+        height: 100%;
+    }
+}
+
+@media screen and (max-width: 640px) {
+    body > #wrapper {
+        width: 100%;
+    }
+
+    body #wrapper > header h1 a {
+        justify-content: center;
+    }
+
+    body #wrapper > section {
+        flex-basis: 100%;
+    }
+
+    body #wrapper > aside {
+        width: 100%;
+    }
+
+    body #wrapper > aside > * {
+        flex-basis: 50%;
+    }
+
+    body #wrapper > header nav ul > li {
+        flex-basis: 100%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    body > #wrapper {
+        width: 100%;
+    }
+
+    body #wrapper > aside > * {
+        flex-basis: 100%;
+    }
+}
