@@ -1,32 +1,140 @@
-@media screen and ( min-width: 465px ) and (max-width:980px ) {
-
+@media screen and ( min-width: 465px ) and (max-width: 980px ) {
+    *{
+        box-sizing: border-box;
+    }
     body{
         width:100%;
+        margin: 0 auto;
     }
-    .wrap-header{
-       display: flex;
+    .wrap-header.zerogrid{
+        border: 1px solid red;
+        position: static;
+        display: flex;
+        width: auto;
         flex-direction: column;
         justify-content: center;
+        align-items: center;
     }
-    header>.wrap-header >*{
+    header>.wrap-header.zerogrid>#logo{
         position: static;
         display: block;
-        border: 1px solid red;
-    }
-    header>.wrap-header> #logo{
-        display: block;
-        position: static;
         order: 2;
+    }
+    header>.wrap-header.zerogrid>nav{
+        order: 1;
 
     }
-    .wrap-header>nav>.wrap-nav{
+    header>.wrap-header.zerogrid>nav>.wrap-nav{
+        display: block;
+        position: static;
+    }
+    .featured{
+        width: 100%;
+    }
+    .wrap-featured.zerogrid{
         position: static;
         display: block;
+        width: 100%;
+    }
+    header>.wrap-header.zerogrid>nav>.wrap-nav>.menu ul{
+        display: flex;
+        justify-content: center;
+    }
+    header>.wrap-header.zerogrid>nav>.wrap-nav>.menu ul li{
+        flex-grow: 1;
+    }
+    #content{
+        width: 100%;
+    }
+    .wrap-content.zerogrid{
+        width: 100%;
+
+    }
+    header>.wrap-header.zerogrid>*{
+        width: 100%;
+        text-align: center;
+    }
+    .wrap-content.zerogrid .row.block01{
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .wrap-content.zerogrid .row.block01>div{
+        flex-basis: 50%;
+        margin: 10px 0;
+    }
+    footer{
+        display: block;
+    }
+    .wrap-footer.zerogrid{
+        width: 100%;
+    }
+    .wrap-footer.zerogrid>.row>div{
+        width: 100%;
     }
 }
 
-@media  screen and  (max-width: 465px){
-    .wrap-header nav{
+@media screen and  (max-width: 465px) {
+    *{
+        box-sizing: border-box;
+    }
+    header>.wrap-header.zerogrid>#logo {
         display: none;
+    }
+    .wrap-header.zerogrid{
+        position: static;
+        display: block;
+        width: auto;
+        flex-direction: column;
+
+    }
+    body{
+        width:100%;
+        margin: 0 auto;
+    }
+    header>.wrap-header.zerogrid>nav>.wrap-nav{
+        display: block;
+        position: static;
+    }
+    header>.wrap-header.zerogrid>nav>.wrap-nav>.menu{
+        display: none;
+
+    }
+    header>.wrap-header.zerogrid>nav>.wrap-nav>.minimenu{
+        display: block;
+
+    }
+    .featured{
+        width: 100%;
+    }
+    .wrap-featured.zerogrid{
+        position: static;
+        display: block;
+        width: 100%;
+    }
+    #content{
+        width: 100%;
+    }
+    .wrap-content.zerogrid{
+        width: 100%;
+
+    }
+    .wrap-content.zerogrid .row.block01{
+        width: 100%;
+        display: flex;
+        flex-flow: row wrap;
+    }
+    .wrap-content.zerogrid .row.block01>div{
+        flex-basis: 100%;
+        margin: 10px 0;
+    }
+    footer{
+        display: block;
+    }
+    .wrap-footer.zerogrid{
+        width: 100%;
+    }
+    .wrap-footer.zerogrid>.row>div{
+        width: 100%;
     }
 }

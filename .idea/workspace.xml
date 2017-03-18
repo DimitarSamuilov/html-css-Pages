@@ -2,103 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2456a2-dcb9-4f52-ad2a-1b7c70c84b2c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/B2E-Logo-Tranparent-Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/HR-Consulting-Services-Multinational-Corporations.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/HR-Service-Large-Business.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/HR-Service-Small-Business.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/menu-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/img/shv_sunrise_preview.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/images/Communication_Company_Vector_Logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/images/aero-blue-abstract-wallpaper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/images/sandwich-icon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive-under1200px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive-under700px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/resources/AlexBrush-Regular.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/resources/Picture_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/resources/Picture_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/resources/Picture_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/resources/Picture_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Medium.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Normal.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Small.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/blue-lagoon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/earth.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/jupiter.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/mars.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/mercury.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/planets-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/saturn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/search-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/sun.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/images/venus.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Normal.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/images/04-product.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/images/04-product2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/images/keyboard53.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/images/sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/img/Bay-Ivan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/img/bg-tile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/img/bullet.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/1. Width-up-to-480px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/2. Width-481px-570px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/3. Width-571px-740px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/3. Width-more-than-740px.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/img/car-1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/img/car-2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/img/car-3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Big.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Medium.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Small.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/site-background.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/social-facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/social-google.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/social-linkedin.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/social-myspace.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/social-twitter-box.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/img/softuni-long-logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-1-960px-and-Larger.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-2-780px-960px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-3-640px-780px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-4-480px-640px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-5-Smaller-Than-480px.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Bank_Credit/bank-credit.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Bank_Credit/bank-credit.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Contact_Form/contact-form.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Contact_Form/contact-form.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Flexbox_Order/flexbox-order.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Flexbox_Order/flexbox-order.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/hr-company.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/HR_Company/hr-company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/communication-company.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/images/atom.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/images/download.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/mandarin-bird.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/planets.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/product-page.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/reset.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/ProductPage/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/responsive-cv.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/cars.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/responsive.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/styles.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/unresponsive-site.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css" afterPath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -119,24 +24,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="cars.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/cars.html">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="32" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="476">
+              <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css">
+      <file leaf-file-name="cars.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/cars.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="-561">
+              <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="32" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -513,7 +418,7 @@
       <workItem from="1489564127158" duration="25250000" />
       <workItem from="1489596404064" duration="7170000" />
       <workItem from="1489823312887" duration="5533000" />
-      <workItem from="1489831174483" duration="14224000" />
+      <workItem from="1489831174483" duration="17270000" />
     </task>
     <task id="LOCAL-00001" summary="new pages added">
       <created>1489411556029</created>
@@ -564,11 +469,18 @@
       <option name="project" value="LOCAL" />
       <updated>1489603574623</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Confrence Page">
+      <created>1489848457864</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1489848457864</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="114597000" />
+    <option name="totallyTimeSpent" value="117643000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2326" y="-312" width="960" height="1080" extended-state="0" />
@@ -774,6 +686,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="764">
           <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -781,6 +694,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="23" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -788,6 +702,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="339">
           <caret line="39" column="10" lean-forward="true" selection-start-line="39" selection-start-column="10" selection-end-line="39" selection-end-column="10" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -795,6 +710,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="23" lean-forward="true" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -802,6 +718,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="548">
           <caret line="116" column="9" lean-forward="false" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -809,6 +726,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="74" lean-forward="false" selection-start-line="5" selection-start-column="74" selection-end-line="5" selection-end-column="74" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -816,6 +734,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="32" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -823,6 +742,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
           <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -927,7 +847,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/cars.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="-561">
           <caret line="21" column="32" lean-forward="false" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="32" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -937,8 +857,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="30" lean-forward="true" selection-start-line="21" selection-start-column="30" selection-end-line="21" selection-end-column="30" />
+        <state relative-caret-position="476">
+          <caret line="28" column="25" lean-forward="true" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
           <folding />
         </state>
       </provider>
