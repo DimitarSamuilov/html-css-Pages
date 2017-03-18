@@ -1,20 +1,5 @@
-﻿@import 'https://fonts.googleapis.com/css?family=PT+Serif';@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';/* By Athlon Front-End Team */
-
-/*
-################################################################
-#    ___       ___       ___       ___       ___       ___     #
-#   /\  \     /\  \     /\__\     /\__\     /\  \     /\__\    #
-#  /::\  \    \:\  \   /:/__/_   /:/  /    /::\  \   /:| _|_   #
-# /::\:\__\   /::\__\ /::\/\__\ /:/__/    /:/\:\__\ /::|/\__\  #
-# \/\::/  /  /:/\/__/ \/\::/  / \:\  \    \:\/:/  / \/|::/  /  #
-#   /:/  /   \/__/      /:/  /   \:\__\    \::/  /    |:/  /   #
-#   \/__/               \/__/     \/__/     \/__/     \/__/    #
-#################### http://weareathlon.com ####################
-*/
-
-/* ### CSS Reset ### */
-
-/* ### Reset ### */
+﻿@import 'https://fonts.googleapis.com/css?family=PT+Serif';
+@import 'https://fonts.googleapis.com/css?family=PT+Sans:400,700';
 
 html,
 body,
@@ -200,7 +185,7 @@ input {
     position: relative;
     overflow: hidden;
     transition: .3s;
-    position: relative;
+
     cursor: pointer;
 }
 

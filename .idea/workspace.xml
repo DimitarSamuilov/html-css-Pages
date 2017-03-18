@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2456a2-dcb9-4f52-ad2a-1b7c70c84b2c" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive-under1200px.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive-under700px.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/screenshots/04-Preview-Responsive.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Medium.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Normal.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/P03_Mandarin_Bird/screenshots/Small.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Normal.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Planets/screenshots/Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/1. Width-up-to-480px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/2. Width-481px-570px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/3. Width-571px-740px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_CV/screenshots/3. Width-more-than-740px.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Big.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Medium.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/screenshots/Small.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-1-960px-and-Larger.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-2-780px-960px.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-3-640px-780px.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-4-480px-640px.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Responsive/Homework/Unresponsive-Web-Site/screenshots/Figure-5-Smaller-Than-480px.jpg" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Responsive/Homework/Planets/styles.css" afterPath="$PROJECT_DIR$/Responsive/Homework/Planets/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css" afterPath="$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,18 +25,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/styles.css">
+      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state relative-caret-position="425">
+              <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="planets.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/planets.html">
+      <file leaf-file-name="communication-company.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/communication-company.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -69,8 +48,18 @@
       <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1700">
-              <caret line="100" column="24" lean-forward="false" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
+            <state relative-caret-position="629">
+              <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="833">
+              <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -129,8 +118,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/BookReview/index.html" />
-        <option value="$PROJECT_DIR$/BookReview/css/style.css" />
         <option value="$PROJECT_DIR$/Briard istory/index.html" />
         <option value="$PROJECT_DIR$/Briard istory/css/style.css" />
         <option value="$PROJECT_DIR$/MediaBar/index.html" />
@@ -180,6 +167,8 @@
         <option value="$PROJECT_DIR$/Responsive/Homework/Responsive_Cars/responsive.css" />
         <option value="$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css" />
         <option value="$PROJECT_DIR$/Responsive/Homework/Planets/styles.css" />
+        <option value="$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css" />
+        <option value="$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css" />
       </list>
     </option>
   </component>
@@ -391,32 +380,6 @@
               <option name="myItemId" value="Homework" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="P03_Mandarin_Bird" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Html" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Responsive" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Homework" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Communication-Company" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -544,7 +507,7 @@
       <workItem from="1489823312887" duration="5533000" />
       <workItem from="1489831174483" duration="20514000" />
       <workItem from="1489854834545" duration="22000" />
-      <workItem from="1489855014143" duration="1000" />
+      <workItem from="1489855014143" duration="908000" />
     </task>
     <task id="LOCAL-00001" summary="new pages added">
       <created>1489411556029</created>
@@ -609,17 +572,24 @@
       <option name="project" value="LOCAL" />
       <updated>1489851497107</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Confrence Page">
+      <created>1489855021182</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1489855021182</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120910000" />
+    <option name="totallyTimeSpent" value="121817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2326" y="-312" width="960" height="1080" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27012712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27012712" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -654,21 +624,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ClearFloating/clearFloatig.html" />
-    <entry file="file://$PROJECT_DIR$/MediaBar/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="335">
-          <caret line="65" column="4" lean-forward="false" selection-start-line="65" selection-start-column="4" selection-end-line="65" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/OptionPanels/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="38" column="17" lean-forward="true" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NewsPage/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -966,10 +921,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css">
+    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1700">
-          <caret line="100" column="24" lean-forward="false" selection-start-line="100" selection-start-column="24" selection-end-line="100" selection-end-column="24" />
+        <state relative-caret-position="17">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -982,10 +937,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/styles.css">
+    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="833">
+          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Planets/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="0" lean-forward="false" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/communication-company.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Responsive/Homework/Communication-Company/responsive.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="14" lean-forward="false" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding />
         </state>
       </provider>

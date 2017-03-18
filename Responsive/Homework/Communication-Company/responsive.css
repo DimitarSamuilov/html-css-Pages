@@ -1,1 +1,28 @@
-/*TODO*/
+@media screen and (max-width: 756px){
+    body{
+        overflow-x: hidden;
+    }
+    .wrapper{
+        width: 100%
+    }
+    .content-wrap.two-col{
+        flex-flow: row wrap;
+        padding:20px;
+    }
+    .content-wrap.two-col .col{
+        flex-basis: 100%;
+
+    }
+    .hero-head{
+        padding: 20px;
+    }
+    .content.sponsorship.woodsmoke>.wrapper{
+        margin: 20px;
+    }
+    .main-foot{
+        padding: 15px;
+    }
+    .content.sponsors>.wrapper{
+        margin: 20px;
+    }
+}
